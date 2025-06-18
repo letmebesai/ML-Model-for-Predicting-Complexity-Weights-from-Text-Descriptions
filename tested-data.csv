@@ -1,0 +1,91 @@
+Description,Service,Log Details,Complexity-Weight,predicted complexity,match_status
+"CAT test monitoring  , All runway substations (every Wednesday 12 PM To 1.00 PM)",UPS,DG load test conducted successfully. Monitored all assets before and after the power transfer time. Found all assets are healthy and working normally. Battery backup is available and all batteries are healthy.,2.0,2.0,matching
+PM(ALL BATTERY REPLACEMENT),UPS,"FULL BATTERIES INSTALLATION WORK COMPLETED.ECBS AND BATTERIES WORKING NORMAL OPERATIONS. BATTERY DETAILS; SUNLIGHT ACCUFORCE, 12 V / 55 AH,18 NUMBERS. BATTERY CODE JUJ20 BATTERY MFD.20/10/2021",3.0,2.0,not matching
+Light fused,Electrical,We have replaced here 2nos 18w840 4pin cfl lights. Now here all lights are working good condition. Past lux level is 287.we have used the materials #MR735191,1.0,1.0,matching
+PM - 1NOS COOLING FAN FAULTY,UPS,"Cooling fan replacement work completed at ups inverter section 1 nos ,now all Cooling fan working. UPS AND BATTERY'S ARE WORKING NORMAL OPERATIONS",2.0,2.0,matching
+QC-Door is hard to close,Civil,Door alignment has been done.,2.0,2.0,matching
+ESCORT FOR CONTRACTORS TO ACCESS ELECTRICAL ROOM,Electrical,"Access electronical room and assistance to tracing circuit connected to office incoming renovation.permit attached,now electrical room is properly closed.",1.0,1.0,matching
+Consumables rack painting required ( Sharmila),Civil,Checking and repairing rack painting completed length 2 sq mater center 1mater,2.0,2.0,matching
+Wall painting required,Civil,Wall painting work is done properly 37sqm,3.0,3.0,matching
+WC drain  blocked,Plumbing,"Checked the complaint in male washroom there is total 2 cubicle only 1 cubicle wc blocked due to undissolved tissues and waste. Remove tissues and waste and using plunger and spring to remove the blockage, now all cubicle working normal.  No service impact",1.0,1.0,matching
+2 W/BASIN BLOCKED,Plumbing,"Checked and found two wash hand basin blocked  with excess food wastes human hair and undissolved tissues  that blocked under the trap. Removed the blockage with a plunger and a  ridding tool, cleaned the bottle trap, and now washbasin is in good working condition,  no blockage",2.0,2.0,matching
+ELECTRICAL ROOMS DOOR TO BE OPEN,Electrical,As per request we open the electrical rooms and they have some inspection inspection completed we close the door properly,1.0,1.0,matching
+electrical socket cover missing,Electrical,Check the socket and found that electrical cover is missing and cover is not available in the area and don't have any spare. We decided to replaced with new one electrical socket with complete fitting. Now socket is in good condition and power is available.  Inform also yhe customer,1.0,1.0,matching
+biometric machine power cable to be covered,Electrical,"We fixed it cable by used cable tie and we informed the customer,now cable is already fixed in biometric machine.",1.0,1.0,matching
+"ESCORT FOR THECONTRACTORS TO ACCESS ELECTRICAL ROOM
+project # 24096 T2 
+Permit No. DXBP/2025/0598",Electrical,Checked the permit and opened the door for electrical work after completing closed the doors properly,1.0,1.0,matching
+PM (01no Battery Need to be replaced),UPS,"Checked and found one 12V-55Ah battery is weak during discharge test in the last PPM, reported and created one WO for replacement. Arranged new battery,PPEs and proper tools. Co ordinated to BMS operator and UCC before proceeding to the task.  Isolated the battery breaker and replaced one battery. Normalized the  breaker and checked the voltage. Now system is working normally.",3.0,2.0,not matching
+APS AC POWER FAILURE,Electrical,Check the panel and there is no power supply the we go to electrical closet the found EGS -Upp-g12 r1 tripped.  We reset and check the fire alarm panel. And now fire alarm panel power was restored and working agian,1.0,1.0,matching
+PM - 2 NOS COOLING FAN FAULTY,UPS,"2 nos cooling fan replacement work completed, now all cooling fan working,UPS and battery's working normal operations.",2.0,2.0,matching
+LIGHTS FUSED (NOS-02),Electrical,We have replaced here 1nos 50w spot lights with using 1nos ballast also. Now here all lights are working good condition.  Past lux level is 517.We have use this materials DM 9900202.,1.0,1.0,matching
+Water Leaking from Cceiling Pipe - Pic Attached,Plumbing,Cleaned the accumulated water and dry the area now there is no more water dripping from ceiling,2.0,2.0,matching
+NO POWER TO SOCKET AND SOCKET DETACHED-PIC ATTACHED,Electrical,We checked and found the breaker was tripped nowcwe reset the breaker power back to normal in the socket,1.0,1.0,matching
+Wall painting required,Civil,Wall painting work is done properly 52sqm,3.0,3.0,matching
+washbasin silicon required,Plumbing,Checked and found all washbasin silicone required then removed the old white silicone and applied the new white silicone. No service impact,1.0,1.0,matching
+HAND DRAYER DEFECTIVE CONTINUOUSLY ON  NEED TO STOP,Electrical,"Arrange the new hand dryer. Isolate the power supply before disconnect the supply cable then Removed the existing faulty hand dryer. Then Installation of new hand dryer, re connection of power supply cable. Re-energized the power source. Testing and functional testing hand dryer. Hand dryer is fully operational.  Inform the customer that the hand dryer is now working",2.0,2.0,matching
+Vanity counter corner grouting required (CIVIL),Civil,Silicon application has been done properly,2.0,2.0,matching
+Ceiling light not working (sirjana),Electrical,Checked throughly and replaced the fused lights 18W CFL 02nos now lights working pre lux 140lux post lux 220lux Elevation below 6meters.,1.0,1.0,matching
+POWER NEEDS TO BE RESTORED FOR OPENING SHUTTER DOOR,Electrical,Checked throughly then reset the breaker now power is available in the shutter door.  Shutter door also working normally. We Informed the end user and confirmed by end user.,1.0,1.0,matching
+Wether radar ups dust cleaning,UPS,"Cleaned the asset,AC and cabin properly. Cleared the dust using blower, brush and cloth.  Cleared well and closed the cabin properly.",2.0,2.0,matching
+Rectifer Fan Faulty Need to be Replaced,UPS,"Checked and found rectifier temperature alarm in UPS, reported and created one WO for replacement. Arranged material and proper PPEs. Isolated the power and replaced one cooling fan. Fan fault rectified, rectifier board need to replace. Waiting for the materials for next step . We will create another WO  once the material is ready.",3.0,2.0,not matching
+CAT 2 test monitoring all runway sub  stations,UPS,"Conducted CAT/DG load testing in different substations. Checked all back up assets before conducting the load test. Monitored all areas and all assets, back up level is healthy and worked properly. There is no interruption and assets are operational.",2.0,2.0,matching
+Lights Not Working,Electrical,We replaced here 1 nos 200w highway LED light and 3 nos 36w/765 tubelights now all lights are working normally post lux level is 383,2.0,2.0,matching
+Washbasin water tap loose condition,Plumbing,"tightened the loose  tap by replacing the worn-out moon washer and nut  with new,tighten correctly now the tap is in a correct and fixed position",1.0,2.0,not matching
+REMOVAL OF ROOF VEGETATION,Civil,Roof vegetation removed,3.0,2.0,not matching
+ceiling lights not working,Electrical,We have visited the location and found here in this office 0018 there are all lights are working good condition. No any lights off condition.  Lux level is also maintained 457.,1.0,1.0,matching
+Wall re-painting required,Civil,Checking and repairing wall painting completed length 10 sq mater center 3mater,2.0,2.0,matching
+LIGHT FUSED,Electrical,"We have replaced 1no 11w865 E27 light. Now here all lights are working good condition. After lux level is 360.this wo use the materials DM 9900287,mr no #742880.",1.0,1.0,matching
+INS-2nos of ceiling light not working,Electrical,"checked and replaced, 2nos led drive, now light is working normally. below 6 metre, post lux level-245",1.0,1.0,matching
+INS-1no light not working near hub room,Electrical,"checked and replaced 1no Led drive, now light is working normally,  post lux level-262, below 6 metre",1.0,1.0,matching
+MULTIPLE LIGHTS NOT WORKING,Electrical,Checked and replaced 02 nos 35w 865 tubelights with ballast. Now lights are working normal condition after lux level is 475,2.0,1.0,not matching
+"Shutter Door not working due to NO Power Supply,",Electrical,Checked throughly and reset the circuit breaker (C04-EPP-0402-B9)now power is normalised for the shutter door.,1.0,1.0,matching
+SINK LEAKING,Plumbing,Checked and found sink drain  damaged  due to poor work done during  installation.  This sink is beyond our scope for it belongs to the food outlet  but due to customer  and passenger  safety I  fixed the drains properly  and aligned  it in a quality manner now there is no more leakage,3.0,1.0,not matching
+04 ceiling lights not working,Electrical,We have replaced here 2nos 14w840 T5 Tubelights. Now here all lights are working good condition. Past lux level is 359. We have use this materials #DM 9901238-2nos .,1.0,1.0,matching
+WATER PRESSURE IS LOW,Plumbing,The rectification has been carried out by dismantling the water tap strainer removed the sands that blocked the strainer. Fixed back on and open the water tap. Now the water pressure is normal. No service impacted,1.0,2.0,not matching
+ESCORT REQUIRED TO ACCESS ELEC. ROOM,Electrical,Electrical room access provided to contractor fo survey and inspection activity. Then right after inspection we left the area and closed the door,1.0,1.0,matching
+TRUNKING TO BE DONE FOR CABLES AAND LED LIGHTS NEED TO INSTALL,Electrical,Here extension cable place in floor trunking  and harness properly all PC power inverters are place under the table now done.,2.0,2.0,matching
+DRAINAGE BLOCK,Plumbing,"Checked  and found  one urinal  is blocked  from  main line due to excess tissue  bubble  and chewing gums and other foreign material.  Removed the blockage with plunger vacuum machine, a rodding tool now there is no more blockage",2.0,2.0,matching
+PM - 1 NOS COOLING FAN FAULTY,UPS,"Cooling fan replacement work completed, now all cooling fan working, UPS and battery's working normal operations",2.0,2.0,matching
+CEILING NEEDS PAINT,Civil,Checking and repairing ceiling painting completed,2.0,2.0,matching
+WASHBASIN TAP LOOSE NEED TO FIX,Plumbing,Tightened the nuts and refixed properly now working normal conditions..no service impact.,1.0,1.0,matching
+Light fused,Electrical,We have replaced here 4nos 14w840 T5 Tubelights. Now here all lights are working good condition. Past lux level is 319. We have use this materials  DM # 9901238.,1.0,1.0,matching
+EMG Exit lights not working,Electrical,We have replaced here 1nos 8w765 T5 mini tubelight. Now here exit signage light working good condition. We have use this materials DM #9900167.,1.0,1.0,matching
+Small light fused,Electrical,We have replaced here 1nos 50w spot lights. Now here all lights are working good condition. Past lux level is 311.we have used this materials #DM 9900202.,1.0,1.0,matching
+Safety pool painting required (2),Civil,Safety pool painting work is done properly,3.0,3.0,matching
+Lift lobby area wall painting required,Civil,Wall painting work is done properly 48sqm,3.0,3.0,matching
+Power socket damaged,Electrical,Webhave replace here 1nos 13A wall socket. Now this wall socket is working normally.  And also  now there is no any safety hazards issues.,2.0,2.0,matching
+WALL DAMAGES NEED TO BE REPAIRED AND PAINT,Civil,Wall repairing and painting work is done properly 62sqm,3.0,3.0,matching
+All Battery Replacement,UPS,"FPS-UPS-01 ALL BATTERIES REPLACEMENT WORK COMPLETED, AFTER CHECKED ALL BATTERIES PARAMETERS THEN TURN ON THE BATTERY BREKER FOUND UPS AND BATTERIES ARE WORKING NORMAL OPERATION. BATTERY DETAILS;SUNLIGHT, ACCUFORCE, 12 V / 40 AH,32 NUMBERS, BATTERY CODE;FWA05,BATTERY MFD.05/01/2023",2.0,2.0,matching
+WC BLOCK AND THE WATER  FLOW OUTSIDE,Plumbing,"removed the blockage with plunger, rodding tool, and a plucking tool now there is no blockage",1.0,2.0,not matching
+APE sub stations RMU chargers distilled water refilling.,UPS,"Filled water maximum, cleaned the area properly and fixed  the caps. Now all batteries are good in condition.",2.0,2.0,matching
+ESCORT REQUIRED TO ACCESS ELEC. ROOM,Electrical,Electrical room access provided for survey. And then right after survey we closed the door,1.0,1.0,matching
+Drain blocked,Plumbing,"Checked the complaint in male washroom there is total 2 cubicles only 1 cubicle wc blocked due to undissolved tissues and waste. Remove tissues and waste and using plunger and spring to remove the blockage, now all cubicle working normal.  No service impact",1.0,1.0,matching
+Poor illumination near the BHS Conveyor (PIC ATTACHED),Electrical,"We relocated the light in what they required.now light is relocated and area is visible confirmed by the user ends,no any power impacted.",2.0,2.0,matching
+(2) black Floor tiles damaged need to change,Civil,Checked and damage floor tile replace work completed,3.0,2.0,not matching
+WASTE DRAIN BLOCKED,Plumbing,Checked and found floor drain blocked. (Kitchen)this is not under Enova scope we informed to customer,1.0,2.0,not matching
+SPRAY GUN DEFECTIVE NEED TO BE FIXED (SATHAK 0565343242,Plumbing,"Removed damaged flexible pipe,replaced new pipe and refixed properly now working normal conditions..no service impact.",1.0,1.0,matching
+fire exit door not closing- picture add,Civil,Door Alignment work has been completed properly,2.0,2.0,matching
+Consumables rack painting required ( Sharmila,Civil,Checking and repairing rack painting completed length 1 sq mater center  1mater,2.0,2.0,matching
+LIGHT FUSED,Electrical,We checked and found this location here 1nos LED light not workingout of 3nos lights. Light jot working due to the ECBS-0102 panel replacement work is going on by site technology team.  This lights is feeding from the ECBS panel.  Once the panel replacement work has been completed and the panel will be energies.  This lights will work automatically.  Lux level 219. Service is not impacted.,2.0,1.0,not matching
+Piller painting required (Nos-04),Civil,Wall pillar repairing and painting work has been done properly 48sq.m,3.0,3.0,matching
+ELEC. SOCKET NO POWER,Electrical,We reset the RCCB breaker from EPP dB and now power is available in panel,2.0,1.0,not matching
+Consumables rack painting required ( Sharmila),Civil,Checking and repairing rack painting completed length 1 sq mater center 1mater,2.0,2.0,matching
+PM(1 NOS COOLING FAN FAULTY),UPS,1 NO OF FAULTY COOLING FAN REPLACEMENT WORK COMPLETED.UPS WORKING NORMAL OPERATION,2.0,2.0,matching
+INS-Infront of immigration 4nos of signage lights are not working properly due to fused lamps need to replace,Electrical,"We checked and replaced 20nos and 21watt 865 tubelights, 20nos of 28watt 865 and 2nos of 28watt electronics ballast and now all the signage lights are working in normal condition",2.0,1.0,not matching
+POWER SOCKETS NOT WORKING,Electrical,Check throughly then reset the breaker now power is available in the socket. Informed the customer,1.0,1.0,matching
+Wash bashing tap loose,Plumbing,We have using correct tools and tightened the water tap nut bolts system now no loose the washbasin water tap working normal condition no service impact.,1.0,1.0,matching
+DAMAGED WALL NEED TO REPAIR,Civil,Checking and repairing wall painting completed length 2Sq mater center 1mater,2.0,2.0,matching
+ceiling light not working,Electrical,We have replaced here 2nos 18w840 4pin CFL lights and 1no 2X18w ballast. Now here all lights are working good condition. Past lux level is 293.we have used the materials DM #9900219,1.0,1.0,matching
+2 URINALS BLOCKED,Plumbing,"Removed the blockage with plunger pump, water pressure and chemical now there is no more blockage",3.0,2.0,not matching
+"ESCORT FOR CONTRACTORS TO ACCESS ELEC ROOM 
+#• Project Reference: SP3/PRA/31B-28",Electrical,Access and escort is provided to site Technology for UPS survey.now electrical room is currently  closed properly.,1.0,1.0,matching
+Wash bashing tap loose,Plumbing,We have using correct tools and tightened the water tap nut bolts system now no loose the washbasin water tap working normal condition no service impact.,1.0,1.0,matching
+Shower taps not working,Plumbing,Arranged new screw and open diverter and service the diverter and fixed properly diverter handle with lekey now shower diverter working normal condition,3.0,1.0,not matching
+UV lamp cover damage,Electrical,We have UV lamp cover fixed proper. Now here all are working good condition. No any service impact.,1.0,1.0,matching
+02 ceiling lights not working,Electrical,We have replaced here 2nos 14w840 T5 Tubelights. Now here all lights are working good condition. Past lux level is 359. We have use this materials #DM 9901238-2nos .,1.0,1.0,matching
+ELEC. SOCKET NO POWER,Electrical,We have restored the power supply from DB cuc4-epp-0109/Y1.now here all wall socket working normally. Inform to customer.,1.0,2.0,not matching
+POWER TRIPPED,Electrical,Isolated the machine charger and restored power from DB. Also informed to client to use load as per rated circuit.,2.0,2.0,matching
+UV Lamp lights not working,Electrical,We have replace her 2nos 18w 3.0 Uv tube lights and 1nos 2×18w ballast .now her UV tube lights working good condition. We have used this materials Dm #  174360 DM#9033271.,1.0,1.0,matching
+4 NOS. CEILING LIGHTS NEED TO BE REPLACED,Electrical,"Here replaced 2nos 14w840 tubelights are 2nos 18w840 4pin CFL lights now,lighta are working good and lux level 297 materials are used DM99001238 and DM9900216",2.0,1.0,not matching
+NO POWER FOR SOCKETS,Electrical,We reset from the DB now lights are working normal  condition in informed to customer also,1.0,1.0,matching
